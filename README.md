@@ -4,4 +4,6 @@ Site internet pour le projet informatique
 
 
 # A faire
-Bonjour
+
+# L'objet : 
+http://siliconwadi.fr/18526/lobjet-israelien-qui-va-transformer-notre-quotidien
